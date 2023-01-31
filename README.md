@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 ```
-npm install -g firebase-tools
+ng add @angular/fire 
+sudo npm install -g firebase-tools
 firebase login
 ```
 
